@@ -28,6 +28,9 @@
     width: 416px;
     height: 683px;
 
+    position: absolute;
+    top: -23px;
+
 
     /* Inside auto layout */
     flex: none;
